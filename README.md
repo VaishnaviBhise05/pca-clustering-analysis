@@ -66,9 +66,4 @@ jupyter notebook pca_clustering.ipynb
 
 Python, scikit-learn, SciPy, pandas, NumPy, Seaborn, Matplotlib, Plotly
 
-## Next steps
 
-- UMAP / t-SNE for nonlinear embeddings
-- Gaussian Mixture Models for soft assignments
-- HDBSCAN for variable-density clusters
-- Bootstrap stability analysis of the chosen *k*

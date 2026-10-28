@@ -2,8 +2,6 @@
 
 Applying **PCA** and three unsupervised clustering algorithms (**K-Means, Hierarchical, DBSCAN**) to discover structure in a 30-dimensional dataset.
 
-**Notebook:** [`pca_clustering.ipynb`](pca_clustering.ipynb) (all outputs are saved, so plots render directly on GitHub)
-
 ## Dataset
 
 Wisconsin Breast Cancer diagnostic data from scikit-learn: 569 samples x 30 numeric features. The diagnosis label (benign / malignant) is **never used for fitting**. It is held out and used only to validate the discovered clusters.
